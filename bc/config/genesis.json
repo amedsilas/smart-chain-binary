@@ -1,6 +1,6 @@
 {
-  "genesis_time": "2020-04-21T09:26:24.051674734Z",
-  "chain_id": "Binance-Chain-Kongo",
+  "genesis_time": "2020-07-09T00:00:00.051674734Z",
+  "chain_id": "Binance-Chain-Ganges",
   "consensus_params": {
     "block_size": {
       "max_bytes": "1048576",
@@ -281,12 +281,12 @@
                 "type": "tendermint/PubKeySecp256k1",
                 "value": "A//eGMq4IXOWB/WC35sexMnrspP+2aC8QHWGOF3isHYs"
               },
-              "signature": "xW4c6N7QSEkT+n7N0coWdG1bbBOmF64CcjX6KX2reqZUpAtfRl5J84LWYmW0qOInylucZDdapj5Nl5Jx9+fmwg==",
+              "signature": "eyDu8Pr93FRxz6+7nNNDNbynU9uLYxnTWMcexhMSEC9VCvpk1LZ16uvqApQw07LyZQuliB52QCb3VJfhUqRMGA==",
               "account_number": "0",
               "sequence": "0"
             }
           ],
-          "memo": "5ceec0c5fe0aafb5c4cdec271061b2b3efdbe7b7@172.18.10.204:26656",
+          "memo": "",
           "source": "0",
           "data": null
         }
@@ -331,12 +331,12 @@
                 "type": "tendermint/PubKeySecp256k1",
                 "value": "AxsnY0fJovfRkhmroAglhnKdPy57GOSM3lw2yeOt90on"
               },
-              "signature": "8toAXa9+++Fi4HSlxCs+e92UKXajphdUFa4iigliPQkCp6fJsWXAk5Q3q6BzeNcra3fzZ0r2ycNvtCV84AIsqg==",
+              "signature": "lD/MdF306w0yoTsQG4eD62tfgzbSyd4NjvGnkRtq/hhzkdPo0WkK0xPohVtDlceLmJlPQduE0+roRczlif/3gA==",
               "account_number": "0",
               "sequence": "0"
             }
           ],
-          "memo": "affa93adc1bbdd7c20932efc26faece5aebdb0e4@172.18.10.205:26656",
+          "memo": "",
           "source": "0",
           "data": null
         }
@@ -381,12 +381,12 @@
                 "type": "tendermint/PubKeySecp256k1",
                 "value": "AgVUOiG88AZKnRiHGjZnx2wKp0FrU9sseuDxFsui+Fmj"
               },
-              "signature": "4GRH0zjQR8mF5Hq1PrcZKKZf8Uk9/N8JBgFkPT5UxolEwXlV0WQwCNMnNyjukMhguN5PLjwAOOldHkRuNBkfsw==",
+              "signature": "eXeQxIPQpHpwA1i1vxOMdj6d5Wov0xyAGjpgZs/eKx8PMRoay0n9sQQB4yZCSO/A6Ihn/pCuxtwCU2gK7zAkuA==",
               "account_number": "0",
               "sequence": "0"
             }
           ],
-          "memo": "d538e1b9dc9bcd39eedc30b6cc1d2b2e8324eb87@172.18.10.206:26656",
+          "memo": "",
           "source": "0",
           "data": null
         }
