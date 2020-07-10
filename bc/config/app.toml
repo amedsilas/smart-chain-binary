@@ -36,6 +36,9 @@ LotSizeUpgradeHeight = 1
 ListingRuleUpgradeHeight = 1
 # Block height of FixZeroBalanceHeight upgrade
 FixZeroBalanceHeight = 1
+BEP70Height = 1
+BEP67Height = 1
+BEP8Height = 1
 LaunchBscUpgradeHeight = 1
 
 [query]
@@ -124,5 +127,7 @@ logFilePath = "bnc.log"
 logBuffSize = 10000
 [cross_chain]
 ibcChainId = 1
-bscChainId = "rialto"
-bscIbcChainId = 2
+bscChainId = "chapel"
+bscIbcChainId = 97
+[dex]
+BUSDSymbol = "BUSD-BAF"
