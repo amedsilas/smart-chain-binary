@@ -2,8 +2,14 @@
 
 ## Binance Chain Binaries
 
-### v0.7.2-bsc.beta.0
+### v0.7.2-bsc.beta.1
 *June 10th*
+
+**Bug Fix**
+* Fix distribution issues
+
+### v0.7.2-bsc.beta.0
+*June 9th*
 
 **New Features**
 
