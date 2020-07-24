@@ -29,7 +29,7 @@ hot_sync_timeout = "3s"
 hot_sync_reactor = true
 
 # As state sync is an experimental feature, this switch can totally disable it on core network nodes (validator, witness)
-state_sync_reactor = false
+state_sync_reactor = true
 
 # If this node is many days behind the tip of the chain, StateSyncHeight
 # allows them to catchup quickly by downloading app state (without historical blocks)
@@ -37,7 +37,7 @@ state_sync_reactor = false
 # <0 - turn off state sync
 # =0 - sync from peer's latest height
 # >0 - sync from that height
-state_sync_height = -1
+state_sync_height = 0
 
 # Database backend: goleveldb | cleveldb | boltdb
 # * goleveldb (github.com/syndtr/goleveldb - most popular implementation)
