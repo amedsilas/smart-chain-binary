@@ -204,10 +204,10 @@ laddr = "tcp://0.0.0.0:27146"
 external_address = "10.201.41.47:27146"
 
 # Comma separated list of seed nodes to connect to
-seeds = ""
+seeds = "2726550182cbc5f4618c27e49c730752a96901e8@a41086771245011e988520ad55ba7f5a-5f7331395e69b0f3.elb.us-east-1.amazonaws.com:27146,34ac6eb6cd914014995b5929be8d7bc9c16f724d@aa13359cd244f11e988520ad55ba7f5a-c3963b80c9b991b7.elb.us-east-1.amazonaws.com:27146,fe5eb5a945598476abe4826a8d31b9f8da7b1a54@aa35ed7c1244f11e988520ad55ba7f5a-bbfb4fe79dee5d7e.elb.us-east-1.amazonaws.com:27146,8825b32e3abec71d772abf009ba1956d452be1fa@aa58a7e44244f11e988520ad55ba7f5a-45d504e63bacb8dd.elb.us-east-1.amazonaws.com:27146"
 
 # Comma separated list of nodes to keep persistent connections to
-persistent_peers = "56f31139277d73a3718252d6d1b19bc165e751f5@52.199.214.252:27146,d4e31612b571bd3f4662574ca24587212017ad7f@18.181.52.189:27146"
+persistent_peers = ""
 
 # UPNP port forwarding
 upnp = false
